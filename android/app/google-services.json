@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "350673726317",
+    "project_id": "fluttermind-2c29a",
+    "storage_bucket": "fluttermind-2c29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350673726317:android:a7b8fdd17df0b5a186c864",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350673726317-9eprm1naa2b390aefrpulri76q0l5n48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPS0zG_JOsoTyuB948GuAkRE0QzWNRgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350673726317-9eprm1naa2b390aefrpulri76q0l5n48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350673726317-6d5hc9p4i33q6d65mefatumb1gsttea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMind"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350673726317:android:afca1d4b678e57d886c864",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350673726317-9eprm1naa2b390aefrpulri76q0l5n48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPS0zG_JOsoTyuB948GuAkRE0QzWNRgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350673726317-9eprm1naa2b390aefrpulri76q0l5n48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350673726317-6d5hc9p4i33q6d65mefatumb1gsttea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
